@@ -1,2 +1,3 @@
 # Ignoramos API key privada
 api_key/api_google_maps.py
+api_key/__pycache__
